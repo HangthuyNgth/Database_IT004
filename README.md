@@ -27,7 +27,7 @@ Both databases follow a fully normalized relational structure (3NF) to enforce r
 * **GIANGDAY (Teaching Assignment)** - Course scheduling per class, semester, and year[cite: 7, 11]
 * **KETQUATHI (Exam Result)** - Exam scores, attempt tracking, and pass/fail statuses[cite: 7, 11]
 
-![Database ERD Diagram](./assets/01_database_erd_diagram.png)
+![Database ERD Diagram](./assets/UML_ACEDEMIC MANAGEMENT.jpg)
 
 ---
 
