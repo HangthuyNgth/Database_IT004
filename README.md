@@ -13,7 +13,7 @@ The database follows a normalized relational structure (3NF) containing 5 key en
 * **INVOICE** - Sales transaction headers
 * **INVOICE_DETAIL** - Line-item transaction breakdown
 
-![Database ERD Diagram](./assets/01_database_erd_diagram.png)
+![Database ERD Diagram](./assets/01_database_erd_diagram.jpg)
 
 ---
 
