@@ -16,7 +16,6 @@ Both databases follow a fully normalized relational structure (3NF) to enforce r
 * **PRODUCT** - Product catalog, unit pricing, and origin details[cite: 2, 4]
 * **INVOICE** - Sales transaction headers[cite: 2, 4]
 * **INVOICE_DETAIL** - Line-item transaction breakdown[cite: 2, 4]
-* ![Database ERD Diagram](./assets/UML_SALES MANAGEMENT.jpg)
 
 ### 2. Academic Management Database
 * **HOCVIEN (Student)** - Student profiles, demographic data, and class enrollment[cite: 7, 11]
@@ -28,7 +27,7 @@ Both databases follow a fully normalized relational structure (3NF) to enforce r
 * **GIANGDAY (Teaching Assignment)** - Course scheduling per class, semester, and year[cite: 7, 11]
 * **KETQUATHI (Exam Result)** - Exam scores, attempt tracking, and pass/fail statuses[cite: 7, 11]
 
-![Database ERD Diagram](./assets/UML_ACEDEMIC MANAGEMENT.jpg)
+![Database ERD Diagram](./assets/01_database_erd_diagram.png)
 
 ---
 
@@ -71,5 +70,3 @@ Both databases follow a fully normalized relational structure (3NF) to enforce r
 │       ├── 02_academic_data.sql
 │       └── 03_academic_queries.sql
 └── README.md
-
-
